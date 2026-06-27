@@ -1,0 +1,382 @@
+{
+  "id": "sun-latentjuice",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@latentjuice Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_1280d2ee5d83",
+    "display_name": "latentjuice",
+    "user_id": "@latentjuice",
+    "description": "Community Archive-derived proof-of-search sun for @latentjuice.",
+    "document_count": 2077,
+    "word_count": 45943,
+    "active_days": 178,
+    "emissions": [
+      "Think",
+      "Defenderofbasic",
+      "Lol",
+      "Selflathing",
+      "Way",
+      "Don"
+    ],
+    "generated_at": "2026-06-27T16:25:34.667399+00:00",
+    "color": "#f59e0b",
+    "mass": 10.735
+  },
+  "planets": [
+    {
+      "id": "planet_c1ebf8ef69c7",
+      "name": "Think",
+      "summary": "Archive cluster around think: 1594 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "really",
+        "too",
+        "good",
+        "see"
+      ],
+      "artifacts": [
+        {
+          "id": "art_ac8d6b5691e2",
+          "title": "Think receipt from 2024-07-09",
+          "excerpt": "one of my biggest whitepill moments in coding was early in junior yr of college around this fact\n\nthe leetcode problem was “given a positive integer n, return the sum of the first n odd integers” https://t.co/Jqqyfsl9W7",
+          "source_document_id": "1810767415132967375",
+          "timestamp": "2024-07-09T20:06:08+00:00",
+          "url": "https://x.com/latentjuice/status/1810767415132967375",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, too, good."
+        },
+        {
+          "id": "art_0cd9e0924118",
+          "title": "Think receipt from 2024-07-09",
+          "excerpt": "eg \nn=3 —&gt; return 1+3+5 = 9\nn=4 —&gt; return 1+3+5+7 = 16\n\n(you prob see the pattern already)",
+          "source_document_id": "1810767418685591827",
+          "timestamp": "2024-07-09T20:06:09+00:00",
+          "url": "https://x.com/latentjuice/status/1810767418685591827",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, too, good."
+        },
+        {
+          "id": "art_88c66e20edbc",
+          "title": "Think receipt from 2024-07-09",
+          "excerpt": "i hadn’t really done much coding atp and i was leetcoding with some senior friends of mine (interned at amazon, apple, etc). they were all very friendly but i was intimidated, a lot of my experience was self-studied rather than classes",
+          "source_document_id": "1810767421537751170",
+          "timestamp": "2024-07-09T20:06:10+00:00",
+          "url": "https://x.com/latentjuice/status/1810767421537751170",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, too, good."
+        },
+        {
+          "id": "art_240ee49597b3",
+          "title": "Think receipt from 2024-07-19",
+          "excerpt": "@animalologist “The least I could do is call her more often. The most I could do still wouldn’t be enough.”\n\nthat hit hard :(( i’m sorry and i feel you",
+          "source_document_id": "1814366679054295401",
+          "timestamp": "2024-07-19T18:28:20+00:00",
+          "url": "https://x.com/latentjuice/status/1814366679054295401",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, too, good."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_eb641bc6f787",
+      "proof_score": 1,
+      "mass": 31.25,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_1705017d0855",
+      "name": "Defenderofbasic",
+      "summary": "Archive cluster around defenderofbasic: 141 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "defenderofbasic",
+        "lol",
+        "way",
+        "sense",
+        "smth"
+      ],
+      "artifacts": [
+        {
+          "id": "art_55c8be2be1dd",
+          "title": "Defenderofbasic receipt from 2024-09-04",
+          "excerpt": "@DefenderOfBasic honestly this was so much fun in college, having everyone else’s location and just dropping by for no reason LOL, i might try reinstating this too",
+          "source_document_id": "1831418779286564999",
+          "timestamp": "2024-09-04T19:47:17+00:00",
+          "url": "https://x.com/latentjuice/status/1831418779286564999",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: defenderofbasic, lol, way, sense."
+        },
+        {
+          "id": "art_4f7869ee58fb",
+          "title": "Defenderofbasic receipt from 2024-08-23",
+          "excerpt": "@DefenderOfBasic i like that this is your bar for emotional and defensive 🤣",
+          "source_document_id": "1827129189557797302",
+          "timestamp": "2024-08-23T23:41:59+00:00",
+          "url": "https://x.com/latentjuice/status/1827129189557797302",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: defenderofbasic, lol, way, sense."
+        },
+        {
+          "id": "art_5e17fca9be0d",
+          "title": "Defenderofbasic receipt from 2024-07-30",
+          "excerpt": "@selflathing @DefenderOfBasic that's crazy!! i had no idea, i'm surprised that such a glaring change wouldn't have seemed out of place with its context\n\nthere's a much more subtle translation error in \"sin\" https://t.co/Q775rhXhyl",
+          "source_document_id": "1818346150992228714",
+          "timestamp": "2024-07-30T18:01:20+00:00",
+          "url": "https://x.com/latentjuice/status/1818346150992228714",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: defenderofbasic, lol, way, sense."
+        },
+        {
+          "id": "art_d5ef4604367e",
+          "title": "Defenderofbasic receipt from 2024-08-04",
+          "excerpt": "@sunsettler @lfgist @7ohntitor @1owroller @lumpenspace @xorswap_ @latentsauce @latentmoss @0x466161 @CreativeBuilds @DefenderOfBasic @dnbt777 @gregeganSF @forthrighter @machine_entity @tct0620t @gfodor @karma_gardener @pHequals7 @HDPbilly @xlr8harder @angelusm0rt1s omg another latent",
+          "source_document_id": "1820161553468907545",
+          "timestamp": "2024-08-04T18:15:05+00:00",
+          "url": "https://x.com/latentjuice/status/1820161553468907545",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: defenderofbasic, lol, way, sense."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_25878ffc044d",
+      "proof_score": 0.846,
+      "mass": 24.572,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_c8209bd3572f",
+      "name": "Lol",
+      "summary": "Archive cluster around lol: 113 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "lol",
+        "selflathing",
+        "actually",
+        "yeah",
+        "trying"
+      ],
+      "artifacts": [
+        {
+          "id": "art_bf18eca91e8f",
+          "title": "Lol receipt from 2024-07-09",
+          "excerpt": "we went back to look through the answers, everyone else had done an O(n) for-loop implementation\n\n“wtf did you use DP? how was yours so much faster?”\n\nthey looked at my soln, paused, thought through for a sec, and let out an “…ohhh”\n\ni had literally zero clue what DP meant LOL",
+          "source_document_id": "1810767426684141759",
+          "timestamp": "2024-07-09T20:06:11+00:00",
+          "url": "https://x.com/latentjuice/status/1810767426684141759",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lol, selflathing, actually, yeah."
+        },
+        {
+          "id": "art_d0d5fcc578d3",
+          "title": "Lol receipt from 2024-07-10",
+          "excerpt": "@var_epsilon lmfao that’s so frustrating \n\neven if you wanted to use a data structure to keep track (which there’s no need for), why not just use a separate array instead of a hash map\n\nextra extra work for no reason lol",
+          "source_document_id": "1810913381617967162",
+          "timestamp": "2024-07-10T05:46:09+00:00",
+          "url": "https://x.com/latentjuice/status/1810913381617967162",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lol, selflathing, actually, yeah."
+        },
+        {
+          "id": "art_39b20bbecb33",
+          "title": "Lol receipt from 2024-09-26",
+          "excerpt": "i went through and purged all the bots following me (which ended up being like half the accounts following me LOL), but the funniest thirst trap was this one https://t.co/lKOfWAfPNT",
+          "source_document_id": "1839329210076459373",
+          "timestamp": "2024-09-26T15:40:31+00:00",
+          "url": "https://x.com/latentjuice/status/1839329210076459373",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lol, selflathing, actually, yeah."
+        },
+        {
+          "id": "art_2df25484457c",
+          "title": "Lol receipt from 2024-10-02",
+          "excerpt": "it’s kinda silly that i feel the internal pressure to have every thought refined + processed for maximum audience understanding before i actually just say/tweet it\n\nthis tweet itself went through a couple of iterations LOL",
+          "source_document_id": "1841497577319014849",
+          "timestamp": "2024-10-02T15:16:50+00:00",
+          "url": "https://x.com/latentjuice/status/1841497577319014849",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lol, selflathing, actually, yeah."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_622f989b5509",
+      "proof_score": 0.824,
+      "mass": 23.59,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_53a36f91ee18",
+      "name": "Selflathing",
+      "summary": "Archive cluster around selflathing: 88 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "selflathing",
+        "baoteching",
+        "way",
+        "yeah",
+        "really"
+      ],
+      "artifacts": [
+        {
+          "id": "art_524d10f214ee",
+          "title": "Selflathing receipt from 2024-11-07",
+          "excerpt": "@selflathing jokes on you, you’re gonna miss out on all the posts from italian golfers\n\n“i like-a dis-course”",
+          "source_document_id": "1854632507825606675",
+          "timestamp": "2024-11-07T21:10:21+00:00",
+          "url": "https://x.com/latentjuice/status/1854632507825606675",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: selflathing, baoteching, way, yeah."
+        },
+        {
+          "id": "art_793371e528cc",
+          "title": "Selflathing receipt from 2024-11-13",
+          "excerpt": "@selflathing oh you want me to change the trans mission on my car?? the gay agenda is everywhere 🙄",
+          "source_document_id": "1856701548832670125",
+          "timestamp": "2024-11-13T14:11:59+00:00",
+          "url": "https://x.com/latentjuice/status/1856701548832670125",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: selflathing, baoteching, way, yeah."
+        },
+        {
+          "id": "art_d3348b5c9f9a",
+          "title": "Selflathing receipt from 2024-10-10",
+          "excerpt": "@selflathing omg who is this handsome man stylishly looking away from the TL",
+          "source_document_id": "1844476627901915333",
+          "timestamp": "2024-10-10T20:34:31+00:00",
+          "url": "https://x.com/latentjuice/status/1844476627901915333",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: selflathing, baoteching, way, yeah."
+        },
+        {
+          "id": "art_ea9d7b8d4673",
+          "title": "Selflathing receipt from 2024-09-25",
+          "excerpt": "@selflathing it’s okay to get messy on here! i find that the people i enjoy following are those who can be very personal. the messiness is personal and human and worth sharing! \n\n(this advice is also for myself)",
+          "source_document_id": "1838765624169783357",
+          "timestamp": "2024-09-25T02:21:02+00:00",
+          "url": "https://x.com/latentjuice/status/1838765624169783357",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: selflathing, baoteching, way, yeah."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_b97c77112adf",
+      "proof_score": 0.799,
+      "mass": 22.133,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_06035ae28e2d",
+      "name": "Way",
+      "summary": "Archive cluster around way: 73 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "way",
+        "too",
+        "feel",
+        "same",
+        "trying"
+      ],
+      "artifacts": [
+        {
+          "id": "art_61f7c3244000",
+          "title": "Way receipt from 2024-07-09",
+          "excerpt": "the pattern was pretty obvious to me — it should always return n squared! i wrote it down, submitted, and my O(1) solution took less time/space than like 99.9% of runs\n\nit was so obvious i didn’t even give it a second thought, i figured everyone did it the same way and moved on",
+          "source_document_id": "1810767424154976351",
+          "timestamp": "2024-07-09T20:06:11+00:00",
+          "url": "https://x.com/latentjuice/status/1810767424154976351",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, too, feel, same."
+        },
+        {
+          "id": "art_32da854a7b79",
+          "title": "Way receipt from 2024-10-10",
+          "excerpt": "@caesararum @arithmoquine there’s absolutely no way My Widenius is the real name of a real person",
+          "source_document_id": "1844187949640106102",
+          "timestamp": "2024-10-10T01:27:25+00:00",
+          "url": "https://x.com/latentjuice/status/1844187949640106102",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, too, feel, same."
+        },
+        {
+          "id": "art_799b318f2dea",
+          "title": "Way receipt from 2024-10-14",
+          "excerpt": "@visakanv when visiting australia (sydney), i learned you’re expected to make way for large public busses if they need to change lanes — doesn’t seem to be the case in the US. in general drivers seemed much less aggressive and more communal in a sense",
+          "source_document_id": "1845857677328421145",
+          "timestamp": "2024-10-14T16:02:19+00:00",
+          "url": "https://x.com/latentjuice/status/1845857677328421145",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, too, feel, same."
+        },
+        {
+          "id": "art_cb3cb0ef6ed7",
+          "title": "Way receipt from 2024-07-30",
+          "excerpt": "my new strategy for speaking from the heart is to open a google doc, turn my screen brightness all the way down, and just start typing away. if i can't see what i've written, i can't self-police!\n\nless thinking, more feeling the flow",
+          "source_document_id": "1818342094269743220",
+          "timestamp": "2024-07-30T17:45:13+00:00",
+          "url": "https://x.com/latentjuice/status/1818342094269743220",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, too, feel, same."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_3e7cf74a4df0",
+      "proof_score": 0.78,
+      "mass": 23.42,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_53f00fb68cfb",
+      "name": "Don",
+      "summary": "Archive cluster around don: 68 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "want",
+        "right",
+        "between"
+      ],
+      "artifacts": [
+        {
+          "id": "art_885f5215b641",
+          "title": "Don receipt from 2024-07-09",
+          "excerpt": "im sharing this not to brag but to say that outside perspectives on coding tends to be very “oh i could never do that” but at the end of the day coding is just a means to the end of problem solving\n\nhave deeper faith in your abilities, don’t count yourself out, it’s all doable",
+          "source_document_id": "1810767430555422870",
+          "timestamp": "2024-07-09T20:06:12+00:00",
+          "url": "https://x.com/latentjuice/status/1810767430555422870",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, right."
+        },
+        {
+          "id": "art_2e8115f903f2",
+          "title": "Don receipt from 2024-11-06",
+          "excerpt": "like genuinely cooked\n\nonce there’s a critical mass of men and women who just don’t care enough to hear the other side bc of the hurt they’ve endured, any shared understanding erodes. rebuilding trust is an order of magnitude more difficult than breaking it down https://t.co/OWCCBex1Xi https://t.co/iBcV36fIzE",
+          "source_document_id": "1854206904228073632",
+          "timestamp": "2024-11-06T16:59:10+00:00",
+          "url": "https://x.com/latentjuice/status/1854206904228073632",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, right."
+        },
+        {
+          "id": "art_a96a20632cd4",
+          "title": "Don receipt from 2023-12-19",
+          "excerpt": "imo a major difference between experts and novices is the ability for the former to “zoom in and out”, and more importantly to know which zoom setting a particular problem requires\n\nnovices otoh don’t recognize there is more room to zoom in/out than what they’re familiar with",
+          "source_document_id": "1737222408291881112",
+          "timestamp": "2023-12-19T21:24:32+00:00",
+          "url": "https://x.com/latentjuice/status/1737222408291881112",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, right."
+        },
+        {
+          "id": "art_ff2e0b6995af",
+          "title": "Don receipt from 2024-11-23",
+          "excerpt": "healthy self-confidence lies in an interesting space between “don’t assume you’re always right” and “don’t be afraid of being wrong”. and i’m not sure these two poles are as different as they sound",
+          "source_document_id": "1860334542290116890",
+          "timestamp": "2024-11-23T14:48:12+00:00",
+          "url": "https://x.com/latentjuice/status/1860334542290116890",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, right."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_17ebc0264343",
+      "proof_score": 0.773,
+      "mass": 23.189,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
